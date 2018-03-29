@@ -43,7 +43,7 @@ nw   = length(w);
 %--------------------------------------------------------------------------
 nn   = size(P.A,1);
 nu   = length(M.u);
-form = 'AR(4)';
+form = '1/f';
 
 
 % spectrum of neuronal fluctuations (Gu) and observation noise (Gn)
@@ -127,8 +127,8 @@ S     = spm_dcm_mtf(P,M);
 %--------------------------------------------------------------------------
 G     = zeros(nw,nn,nn);
 
-Gi=Gu+Gw;
-%Gi=Gu;
+% Gi=Gu+Gw;
+Gi=Gu;
 for i = 1:nw
     G(i,:,:) = reshape(S(i,:,:),nn,nn)*reshape(Gi(i,:,:),nn,nn)*reshape(S(i,:,:),nn,nn)';
 end
