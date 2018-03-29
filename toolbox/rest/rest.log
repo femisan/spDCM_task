@@ -1,0 +1,226 @@
+Welcome: liushuang, 20180312_1156 
+REST Version: 1.8, Release: 20130615
+Citation Information:
+Xiao-Wei Song, Zhang-Ye Dong, Xiang-Yu Long, Su-Fang Li, Xi-Nian Zuo, Chao-Zhe Zhu, Yong He, Chao-Gan Yan, Yu-Feng Zang. (2011) REST: A Toolkit for Resting-State Functional Magnetic Resonance Imaging Data Processing. PLoS ONE 6(9): e25031. doi:10.1371/journal.pone.0025031
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.UIControl/set')" style="font-weight:bold">matlab.ui.control.UIControl/set</a>
+Error setting property 'CData' of class '<a href="matlab:doc matlab.ui.control.UIControl">UIControl</a>':
+Value must be a three-dimensional matrix of RGB values that defines a
+truecolor image. Each value must be between 0.0 and 1.0 or NaN.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui>InitControlProperties', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 825)" style="font-weight:bold">rest_cohe_gui>InitControlProperties</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',825,0)">line 825</a>)
+	set(handles.btnSelectDataDir,	...
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui>rest_cohe_gui_OpeningFcn', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 40)" style="font-weight:bold">rest_cohe_gui>rest_cohe_gui_OpeningFcn</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',40,0)">line 40</a>)
+    InitControlProperties(hObject, handles);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2017a.app/toolbox/matlab/guide/gui_mainfcn.m', 220)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2017a.app/toolbox/matlab/guide/gui_mainfcn.m',220,0)">line 220</a>)
+    feval(gui_State.gui_OpeningFcn, gui_hFigure, [], guidata(gui_hFigure),
+    varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 30)" style="font-weight:bold">rest_cohe_gui</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',30,0)">line 30</a>)
+    gui_mainfcn(gui_State, varargin{:});
+} 
+Error while evaluating UIControl Callback.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.UIControl/set')" style="font-weight:bold">matlab.ui.control.UIControl/set</a>
+Error setting property 'CData' of class '<a href="matlab:doc matlab.ui.control.UIControl">UIControl</a>':
+Value must be a three-dimensional matrix of RGB values that defines a
+truecolor image. Each value must be between 0.0 and 1.0 or NaN.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui>InitControlProperties', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 825)" style="font-weight:bold">rest_cohe_gui>InitControlProperties</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',825,0)">line 825</a>)
+	set(handles.btnSelectDataDir,	...
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui>rest_cohe_gui_OpeningFcn', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 40)" style="font-weight:bold">rest_cohe_gui>rest_cohe_gui_OpeningFcn</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',40,0)">line 40</a>)
+    InitControlProperties(hObject, handles);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2017a.app/toolbox/matlab/guide/gui_mainfcn.m', 220)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2017a.app/toolbox/matlab/guide/gui_mainfcn.m',220,0)">line 220</a>)
+    feval(gui_State.gui_OpeningFcn, gui_hFigure, [],
+    guidata(gui_hFigure), varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 30)" style="font-weight:bold">rest_cohe_gui</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',30,0)">line 30</a>)
+    gui_mainfcn(gui_State, varargin{:});
+} 
+Error while evaluating UIControl Callback.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.UIControl/set')" style="font-weight:bold">matlab.ui.control.UIControl/set</a>
+Error setting property 'CData' of class '<a href="matlab:doc matlab.ui.control.UIControl">UIControl</a>':
+Value must be a three-dimensional matrix of RGB values that defines a
+truecolor image. Each value must be between 0.0 and 1.0 or NaN.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui>InitControlProperties', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 825)" style="font-weight:bold">rest_cohe_gui>InitControlProperties</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',825,0)">line 825</a>)
+	set(handles.btnSelectDataDir,	...
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui>rest_cohe_gui_OpeningFcn', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 40)" style="font-weight:bold">rest_cohe_gui>rest_cohe_gui_OpeningFcn</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',40,0)">line 40</a>)
+    InitControlProperties(hObject, handles);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2017a.app/toolbox/matlab/guide/gui_mainfcn.m', 220)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2017a.app/toolbox/matlab/guide/gui_mainfcn.m',220,0)">line 220</a>)
+    feval(gui_State.gui_OpeningFcn, gui_hFigure, [],
+    guidata(gui_hFigure), varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 30)" style="font-weight:bold">rest_cohe_gui</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',30,0)">line 30</a>)
+    gui_mainfcn(gui_State, varargin{:});
+} 
+Error while evaluating UIControl Callback.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.UIControl/set')" style="font-weight:bold">matlab.ui.control.UIControl/set</a>
+Error setting property 'CData' of class '<a href="matlab:doc matlab.ui.control.UIControl">UIControl</a>':
+Value must be a three-dimensional matrix of RGB values that defines a
+truecolor image. Each value must be between 0.0 and 1.0 or NaN.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui>InitControlProperties', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 825)" style="font-weight:bold">rest_cohe_gui>InitControlProperties</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',825,0)">line 825</a>)
+	set(handles.btnSelectDataDir,	...
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui>rest_cohe_gui_OpeningFcn', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 40)" style="font-weight:bold">rest_cohe_gui>rest_cohe_gui_OpeningFcn</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',40,0)">line 40</a>)
+    InitControlProperties(hObject, handles);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2017a.app/toolbox/matlab/guide/gui_mainfcn.m', 220)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2017a.app/toolbox/matlab/guide/gui_mainfcn.m',220,0)">line 220</a>)
+    feval(gui_State.gui_OpeningFcn, gui_hFigure, [],
+    guidata(gui_hFigure), varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 30)" style="font-weight:bold">rest_cohe_gui</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',30,0)">line 30</a>)
+    gui_mainfcn(gui_State, varargin{:});
+} 
+Error while evaluating UIControl Callback.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.UIControl/set')" style="font-weight:bold">matlab.ui.control.UIControl/set</a>
+Error setting property 'CData' of class '<a href="matlab:doc matlab.ui.control.UIControl">UIControl</a>':
+Value must be a three-dimensional matrix of RGB values that defines a
+truecolor image. Each value must be between 0.0 and 1.0 or NaN.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui>InitControlProperties', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 825)" style="font-weight:bold">rest_cohe_gui>InitControlProperties</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',825,0)">line 825</a>)
+	set(handles.btnSelectDataDir,	...
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui>rest_cohe_gui_OpeningFcn', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 40)" style="font-weight:bold">rest_cohe_gui>rest_cohe_gui_OpeningFcn</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',40,0)">line 40</a>)
+    InitControlProperties(hObject, handles);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2017a.app/toolbox/matlab/guide/gui_mainfcn.m', 220)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2017a.app/toolbox/matlab/guide/gui_mainfcn.m',220,0)">line 220</a>)
+    feval(gui_State.gui_OpeningFcn, gui_hFigure, [],
+    guidata(gui_hFigure), varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 30)" style="font-weight:bold">rest_cohe_gui</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',30,0)">line 30</a>)
+    gui_mainfcn(gui_State, varargin{:});
+} 
+Error while evaluating UIControl Callback.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.UIControl/set')" style="font-weight:bold">matlab.ui.control.UIControl/set</a>
+Error setting property 'CData' of class '<a href="matlab:doc matlab.ui.control.UIControl">UIControl</a>':
+Value must be a three-dimensional matrix of RGB values that defines a
+truecolor image. Each value must be between 0.0 and 1.0 or NaN.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui>InitControlProperties', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 825)" style="font-weight:bold">rest_cohe_gui>InitControlProperties</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',825,0)">line 825</a>)
+	set(handles.btnSelectDataDir,	...
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui>rest_cohe_gui_OpeningFcn', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 40)" style="font-weight:bold">rest_cohe_gui>rest_cohe_gui_OpeningFcn</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',40,0)">line 40</a>)
+    InitControlProperties(hObject, handles);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2017a.app/toolbox/matlab/guide/gui_mainfcn.m', 220)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2017a.app/toolbox/matlab/guide/gui_mainfcn.m',220,0)">line 220</a>)
+    feval(gui_State.gui_OpeningFcn, gui_hFigure, [],
+    guidata(gui_hFigure), varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 30)" style="font-weight:bold">rest_cohe_gui</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',30,0)">line 30</a>)
+    gui_mainfcn(gui_State, varargin{:});
+} 
+Error while evaluating UIControl Callback.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.UIControl/set')" style="font-weight:bold">matlab.ui.control.UIControl/set</a>
+Error setting property 'CData' of class '<a href="matlab:doc matlab.ui.control.UIControl">UIControl</a>':
+Value must be a three-dimensional matrix of RGB values that defines a
+truecolor image. Each value must be between 0.0 and 1.0 or NaN.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui>InitControlProperties', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 825)" style="font-weight:bold">rest_cohe_gui>InitControlProperties</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',825,0)">line 825</a>)
+	set(handles.btnSelectDataDir,	...
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui>rest_cohe_gui_OpeningFcn', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 40)" style="font-weight:bold">rest_cohe_gui>rest_cohe_gui_OpeningFcn</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',40,0)">line 40</a>)
+    InitControlProperties(hObject, handles);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2017a.app/toolbox/matlab/guide/gui_mainfcn.m', 220)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2017a.app/toolbox/matlab/guide/gui_mainfcn.m',220,0)">line 220</a>)
+    feval(gui_State.gui_OpeningFcn, gui_hFigure, [],
+    guidata(gui_hFigure), varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 30)" style="font-weight:bold">rest_cohe_gui</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',30,0)">line 30</a>)
+    gui_mainfcn(gui_State, varargin{:});
+} 
+Error while evaluating UIControl Callback.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.UIControl/set')" style="font-weight:bold">matlab.ui.control.UIControl/set</a>
+Error setting property 'CData' of class '<a href="matlab:doc matlab.ui.control.UIControl">UIControl</a>':
+Value must be a three-dimensional matrix of RGB values that defines a
+truecolor image. Each value must be between 0.0 and 1.0 or NaN.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui>InitControlProperties', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 825)" style="font-weight:bold">rest_cohe_gui>InitControlProperties</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',825,0)">line 825</a>)
+	set(handles.btnSelectDataDir,	...
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui>rest_cohe_gui_OpeningFcn', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 40)" style="font-weight:bold">rest_cohe_gui>rest_cohe_gui_OpeningFcn</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',40,0)">line 40</a>)
+    InitControlProperties(hObject, handles);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2017a.app/toolbox/matlab/guide/gui_mainfcn.m', 220)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2017a.app/toolbox/matlab/guide/gui_mainfcn.m',220,0)">line 220</a>)
+    feval(gui_State.gui_OpeningFcn, gui_hFigure, [],
+    guidata(gui_hFigure), varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 30)" style="font-weight:bold">rest_cohe_gui</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',30,0)">line 30</a>)
+    gui_mainfcn(gui_State, varargin{:});
+} 
+Error while evaluating UIControl Callback.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.UIControl/set')" style="font-weight:bold">matlab.ui.control.UIControl/set</a>
+Error setting property 'CData' of class '<a href="matlab:doc matlab.ui.control.UIControl">UIControl</a>':
+Value must be a three-dimensional matrix of RGB values that defines a
+truecolor image. Each value must be between 0.0 and 1.0 or NaN.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui>InitControlProperties', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 825)" style="font-weight:bold">rest_cohe_gui>InitControlProperties</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',825,0)">line 825</a>)
+	set(handles.btnSelectDataDir,	...
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui>rest_cohe_gui_OpeningFcn', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 40)" style="font-weight:bold">rest_cohe_gui>rest_cohe_gui_OpeningFcn</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',40,0)">line 40</a>)
+    InitControlProperties(hObject, handles);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2017a.app/toolbox/matlab/guide/gui_mainfcn.m', 220)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2017a.app/toolbox/matlab/guide/gui_mainfcn.m',220,0)">line 220</a>)
+    feval(gui_State.gui_OpeningFcn, gui_hFigure, [],
+    guidata(gui_hFigure), varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 30)" style="font-weight:bold">rest_cohe_gui</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',30,0)">line 30</a>)
+    gui_mainfcn(gui_State, varargin{:});
+} 
+Error while evaluating UIControl Callback.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.UIControl/set')" style="font-weight:bold">matlab.ui.control.UIControl/set</a>
+Error setting property 'CData' of class '<a href="matlab:doc matlab.ui.control.UIControl">UIControl</a>':
+Value must be a three-dimensional matrix of RGB values that defines a
+truecolor image. Each value must be between 0.0 and 1.0 or NaN.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui>InitControlProperties', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 825)" style="font-weight:bold">rest_cohe_gui>InitControlProperties</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',825,0)">line 825</a>)
+	set(handles.btnSelectDataDir,	...
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui>rest_cohe_gui_OpeningFcn', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 40)" style="font-weight:bold">rest_cohe_gui>rest_cohe_gui_OpeningFcn</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',40,0)">line 40</a>)
+    InitControlProperties(hObject, handles);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2017a.app/toolbox/matlab/guide/gui_mainfcn.m', 220)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2017a.app/toolbox/matlab/guide/gui_mainfcn.m',220,0)">line 220</a>)
+    feval(gui_State.gui_OpeningFcn, gui_hFigure, [],
+    guidata(gui_hFigure), varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 30)" style="font-weight:bold">rest_cohe_gui</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',30,0)">line 30</a>)
+    gui_mainfcn(gui_State, varargin{:});
+} 
+Error while evaluating UIControl Callback.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.UIControl/set')" style="font-weight:bold">matlab.ui.control.UIControl/set</a>
+Error setting property 'CData' of class '<a href="matlab:doc matlab.ui.control.UIControl">UIControl</a>':
+Value must be a three-dimensional matrix of RGB values that defines a
+truecolor image. Each value must be between 0.0 and 1.0 or NaN.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui>InitControlProperties', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 825)" style="font-weight:bold">rest_cohe_gui>InitControlProperties</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',825,0)">line 825</a>)
+	set(handles.btnSelectDataDir,	...
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui>rest_cohe_gui_OpeningFcn', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 40)" style="font-weight:bold">rest_cohe_gui>rest_cohe_gui_OpeningFcn</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',40,0)">line 40</a>)
+    InitControlProperties(hObject, handles);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2017a.app/toolbox/matlab/guide/gui_mainfcn.m', 220)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2017a.app/toolbox/matlab/guide/gui_mainfcn.m',220,0)">line 220</a>)
+    feval(gui_State.gui_OpeningFcn, gui_hFigure, [],
+    guidata(gui_hFigure), varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rest_cohe_gui', '/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m', 30)" style="font-weight:bold">rest_cohe_gui</a> (<a href="matlab: opentoline('/Users/liushuang/WorkSpace/spm12/toolbox/rest/rest_cohe_gui.m',30,0)">line 30</a>)
+    gui_mainfcn(gui_State, varargin{:});
+} 
+Error while evaluating UIControl Callback.
+
+Good Bye: liushuang, 20180312_1210 
+REST Version: 1.8, Release: 20130615
